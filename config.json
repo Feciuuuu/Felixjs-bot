@@ -1,0 +1,116 @@
+{
+    "bot": {
+        "token" : "",
+        "prefix" : "%",
+        "id_serwera" : "",
+        "ip" : "",
+        "maxsloty" : "",
+        "MySQL": {
+            "ip" : "",
+            "login" : "",
+            "haslo" : "",
+            "baza" : ""
+        }
+    }, 
+    "status": {
+        "on" : true,
+        "gracze" : true,
+        "aktualizacja" : "1000",
+        "status" : "Gracze:",
+        "typstatusu" : "PLAYING"
+    },
+    "zaćmienia": {
+        "on" : true,
+        "webhook" : "https://discord.com/api/webhooks/917981228756525056/KEIe2qNhbB-Ec0SZsXMU_XgMFYqrGOsBX20PEVMc3l0fQBMcxzrAoSGOTlfimWdeGyMj",
+        "wiadomość" : "**Serwer przeszedł restart i jest gotowy do gry** Naciśnij F8 - connect ???RP.pl",
+        "grafika" : "",
+        "colour" : "#5700ff",
+        "foother" : "", 
+        "ping" : false,
+        "jakiping" : "", 
+        "aktualizacja" : "1000"
+    },
+    "propozycje": {
+        "on" : true,
+        "kanal_id" : "",
+        "react1" : "✅",
+        "react2" : "❌",
+        "embed" : true,
+        "webhook" : "",
+        "embedbuilder": {
+            "setColor" : "#0000e6",
+            "setAuthor" : "Nowa propozycja do rozpatrzenia!",
+            "ProfilePic" : true,
+            "setDescription" : "[PROPOZYCJA]",
+            "setFooter" : "",
+            "setTimestamp" : true
+        }
+    },
+    "welcome": {
+        "on" : true,
+        "kanal_id" : "",
+        "img" : 1,
+        "embed": {
+            "colour" : "#0000e6",
+            "desc" : "",
+            "footer" : ""
+        },
+        "embed2": {
+            "colour" : "#0000e6",
+            "desc" : "",
+            "footer" : ""
+        }
+    },
+    "antilink": {
+        "on" : true,
+        "logi" : true,
+        "logi_id" : "",
+        "wiadomość" : "<@{USER}> Niezła próba zareklamowania innego serwera! 💎"
+    },
+    "discordid": {
+        "on" : true,
+        "id_kanalu" : ""
+    },
+    "ticket": {
+        "on" : true,
+        "id_kanalu" : "",
+        "category" : ""
+    },
+    "weryfikacja": {
+        "on" : true,
+        "id_kanalu" : "",
+        "id_rangi" : ""
+    },
+    "statystyki": {
+        "on" : true,
+        "id_kanału" : "",
+        "wiadomość" : "NazwaSerwera: {ZAJĘTE}/{WOLNE}",
+        "aktualizacja" : "300000"
+    },
+    "statystyki_discord": {
+        "on" : false,
+        "id_kanału" : "",
+        "wiadomość" : "Osoby: {MEMBERS}",
+        "aktualizacja" : "300000"
+    },
+    "DarkWeb": {
+        "on" : false,
+        "id_kanalu" : "",
+        "webhook" : "",
+        "logi": {
+            "on" : true,
+            "id_kanalu" : ""
+        }
+    },
+    "losuj": {
+        "id_poczekalni" : "",
+        "id_kanalu_dla_komend" : ""
+    },
+    "wl": {
+        "id_kanalu_dla_komend" : "",
+        "ranga" : ""
+    },
+    "embed": {
+        "imagre" : ""
+    }
+}
