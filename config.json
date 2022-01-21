@@ -1,10 +1,10 @@
 {
     "bot": {
-        "token" : "",
-        "prefix" : "%",
-        "id_serwera" : "",
+        "token" : "OTMyNzA0NDM2NjIxNTY1OTYy.YeW2sg.8-Aa96QT1QumNDSvEhSo2OHVMOs",
+        "prefix" : ".",
+        "id_serwera" : "934202669524983848",
         "ip" : "",
-        "maxsloty" : "",
+        "maxsloty" : "120",
         "MySQL": {
             "ip" : "",
             "login" : "",
@@ -48,7 +48,7 @@
     },
     "welcome": {
         "on" : true,
-        "kanal_id" : "",
+        "kanal_id" : "934202669600489626",
         "img" : 1,
         "embed": {
             "colour" : "#0000e6",
@@ -69,33 +69,33 @@
     },
     "discordid": {
         "on" : true,
-        "id_kanalu" : ""
+        "id_kanalu" : "934218903549251584"
     },
     "ticket": {
         "on" : true,
-        "id_kanalu" : "",
-        "category" : ""
+        "id_kanalu" : "934202673140465731",
+        "category" : "934202673140465725"
     },
     "weryfikacja": {
         "on" : true,
-        "id_kanalu" : "",
-        "id_rangi" : ""
+        "id_kanalu" : "934202669600489627",
+        "id_rangi" : "934202669575319588"
     },
     "statystyki": {
         "on" : true,
-        "id_kanału" : "",
-        "wiadomość" : "NazwaSerwera: {ZAJĘTE}/{WOLNE}",
+        "id_kanału" : "934219233372553246",
+        "wiadomość" : "Cos: {ZAJĘTE}/{WOLNE}",
         "aktualizacja" : "300000"
     },
     "statystyki_discord": {
         "on" : false,
-        "id_kanału" : "",
+        "id_kanału" : "934219437727440976",
         "wiadomość" : "Osoby: {MEMBERS}",
         "aktualizacja" : "300000"
     },
     "DarkWeb": {
         "on" : false,
-        "id_kanalu" : "",
+        "id_kanalu" : "934202673492791386",
         "webhook" : "",
         "logi": {
             "on" : true,
@@ -103,12 +103,12 @@
         }
     },
     "losuj": {
-        "id_poczekalni" : "",
-        "id_kanalu_dla_komend" : ""
+        "id_poczekalni" : "934202673492791392",
+        "id_kanalu_dla_komend" : "934202673492791391"
     },
     "wl": {
-        "id_kanalu_dla_komend" : "",
-        "ranga" : ""
+        "id_kanalu_dla_komend" : "934202673492791390",
+        "ranga" : "934202669575319583"
     },
     "embed": {
         "imagre" : ""
